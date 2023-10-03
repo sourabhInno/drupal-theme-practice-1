@@ -1,0 +1,14 @@
+uuid: 5e16f531-0749-44b5-bcf5-45d6daa9f99a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - sourabh.sisodia@innoraft.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
